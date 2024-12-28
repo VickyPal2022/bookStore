@@ -1,0 +1,29 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.env.local
+.env.*.local
+.DS_Store
+
+# Logs
+logs
+*.log
+log/
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Build/Production
+/build
+/dist
+/out
+*.lock
+
+# OS-specific
+*.swp
+*.swo
+*.bak
+Thumbs.db

@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius",
+        "price":90,
+        "category":"Paid",
+        "image":"https://randomuser.me/api/portraits/men/6.jpg"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius",
+        "price":0,
+        "category":"Free",
+        "image":"https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+        "id":3,
+        "name":"Joke Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius",
+        "price":0,
+        "category":"Free",
+        "image":"https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "id":4,
+        "name":"Acting Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius",
+        "price":0,
+        "category":"Free",
+        "image":"https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "id":5,
+        "name":"Constitution Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius",
+        "price":100,
+        "category":"Paid",
+        "image":"https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "id":6,
+        "name":"Computer Science",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius",
+        "price":130,
+        "category":"Paid",
+        "image":"https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius",
+        "price":100,
+        "category":"Paid",
+        "image":"https://randomuser.me/api/portraits/men/6.jpg"
+    },
+    {
+        "id":8,
+        "name":"Comedy Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius",
+        "price":120,
+        "category":"Paid",
+        "image":"https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+        "id":9,
+        "name":"Joke Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius",
+        "price":100,
+        "category":"Paid",
+        "image":"https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "id":10,
+        "name":"Acting Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius",
+        "price":150,
+        "category":"Paid",
+        "image":"https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "id":11,
+        "name":"Constitution Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius",
+        "price":120,
+        "category":"Paid",
+        "image":"https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "id":12,
+        "name":"Computer Science",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius",
+        "price":100,
+        "category":"Paid",
+        "image":"https://randomuser.me/api/portraits/men/1.jpg"
+    }    
+]
